@@ -1,10 +1,9 @@
-# Projeto de Visão Computacional
+# Onde está meu gato?
 
-Projeto criado para disciplina Fundamentos de Inteligência Artificial (FIA) - Graduação. Prof. Pablo De Chiaro
+O projeto criado implementa identificação de pets por meio de imagem, nesse caso o algoritmo é treinado apra identificar a figura de gatos em imagens com mais objetos. Simulando o acesso de um tutor à cameras, por meio do uso de iamgens, da sua residência identificando o local onde seu gato está por meio de "caixas" em torno do mesmo.
 
-Este projeto configura um ambiente virtual Python e instala as bibliotecas necessárias para um projeto de Visão Computacional.
 
-## Configuração do Ambiente Virtual
+<!-- ## Configuração do Ambiente Virtual
 
 ### Passos para criar e ativar um ambiente virtual:
 
@@ -75,4 +74,4 @@ deactivate
 - (Ref) YoloV3: [yolov3](https://pjreddie.com/darknet/yolo/)
 - (Leitura) SSD MobileNet: [SSD MobileNetV2](https://arxiv.org/abs/1512.02325)
 - (Leitura) SSD MobileNet: [SSD MobileNetV2 Object Detection](https://medium.com/@techmayank2000/object-detection-using-ssd-mobilenetv2-using-tensorflow-api-can-detect-any-single-class-from-31a31bbd0691)
-- (Ref) COCO: [Common Objects in Context](https://cocodataset.org/#overview)
+- (Ref) COCO: [Common Objects in Context](https://cocodataset.org/#overview) -->
